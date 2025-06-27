@@ -61,7 +61,7 @@ async def handle_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
         sheet.append_row(context.user_data["answers"])
         return ConversationHandler.END
 
-    next_question = _(settings.QUESTION_KEYS[index])
+    next_question = _(f"question{index}")
     await update.message.reply_text(next_question)
     context.user_data["question_index"] = index + 1
     return Command.ASK_QUESTION
