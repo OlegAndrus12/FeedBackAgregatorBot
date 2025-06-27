@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 00:00+0000\n"
+"PO-Revision-Date: 2025-06-27 00:00+0000\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "question1"
+msgstr "Що вам сподобалося і/або не сподобалося на уроках англійської мови?"
+
+msgid "question2"
+msgstr "Що вам сподобалося і/або не сподобалося в обговореннях Біблії"
+
+msgid "question3"
+msgstr "Що вам сподобалося і/або не сподобалося в денних активностях (заняття з хобі, спорт, ігри, квести)?"
+
+msgid "question4"
+msgstr "Що вам сподобалося і/або не сподобалося у вечірніх заходах (Тема дня, Зона вечірки, Кіновечір, Танцювальний вечір)?"
+
+msgid "question5"
+msgstr "Яка ілюстрація до теми дня була найкориснішою (вода, багаж, рентген, трипачка, дерево, пожежники тощо)? І чому?"
+
+msgid "question6"
+msgstr "Що Вам сподобалося найбільше в таборі?"
+
+msgid "question7"
+msgstr "Що б ви змінили в таборі? Як ми можемо покращити табір у наступні роки?"
+
+msgid "question8"
+msgstr "Будь-які інші думки чи пропозиції?"

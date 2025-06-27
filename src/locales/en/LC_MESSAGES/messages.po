@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 00:00+0000\n"
+"PO-Revision-Date: 2025-06-27 00:00+0000\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "question1"
+msgstr "What did you like and/or dislike about English lessons?"
+
+msgid "question2"
+msgstr "What did you like and/or dislike about English Bible discussions?"
+
+msgid "question3"
+msgstr "What did you like and/or dislike about afternoon activities (hobby classes, sports, games, quest)?"
+
+msgid "question4"
+msgstr "What did you like and/or dislike about evening activities (Theme of Day, Party Zone, Movie Night, Dance Night)? "
+
+msgid "question5"
+msgstr "What did was the most helpful Theme of the Day illustration (water, baggage, x-ray, тріпачка, tree, firemen, etc)? And why?"
+
+msgid "question6"
+msgstr "What was your favorite part of camp?"
+
+msgid "question7"
+msgstr "What would you change about the camp? How can we improve the camp in future years?"
+
+msgid "question8"
+msgstr "Any other thoughts or suggestions?"
