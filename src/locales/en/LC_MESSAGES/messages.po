@@ -12,25 +12,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "question1"
-msgstr "What did you like and/or dislike about English lessons?"
+msgstr "🇬🇧What did you like and/or dislike about English lessons?"
 
 msgid "question2"
-msgstr "What did you like and/or dislike about English Bible discussions?"
+msgstr "📖What did you like and/or dislike about English Bible discussions?"
 
 msgid "question3"
-msgstr "What did you like and/or dislike about afternoon activities (hobby classes, sports, games, quest)?"
-
+msgstr "🎨⚽🕹️What did you like and/or dislike about afternoon activities (hobby classes, sports, games, quest)?"
+ 
 msgid "question4"
-msgstr "What did you like and/or dislike about evening activities (Theme of Day, Party Zone, Movie Night, Dance Night)? "
+msgstr "🎉🎬💃What did you like and/or dislike about evening activities (Theme of Day, Party Zone, Movie Night, Dance Night)? "
 
 msgid "question5"
-msgstr "What did was the most helpful Theme of the Day illustration (water, baggage, x-ray, тріпачка, tree, firemen, etc)? And why?"
+msgstr "🖼️❓What did was the most helpful Theme of the Day illustration (water, baggage, x-ray, тріпачка, tree, firemen, etc)? And why?"
 
 msgid "question6"
-msgstr "What was your favorite part of camp?"
+msgstr "💖What was your favorite part of camp?"
 
 msgid "question7"
-msgstr "What would you change about the camp? How can we improve the camp in future years?"
+msgstr "📝What would you change about the camp? How can we improve the camp in future years?"
 
 msgid "question8"
-msgstr "Any other thoughts or suggestions?"
+msgstr "Any other thoughts or suggestions❓"
+
+msgid "What's your question?"
+msgstr "Що саме Ви хочете запитати🙃"
+
+msgid "Good question, thanks!"
+msgstr "Good question, thanks🙏"
+
+msgid "Thank you for your feedback!"
+msgstr "Thank you for your feedback! See you later on Leopolis! 🫶💚"

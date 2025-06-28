@@ -11,5 +11,7 @@ SCOPES = [
 
 creds = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
-sheets_client = gspread.authorize(creds)
-sheet = sheets_client.open_by_key(SPREAD_SHEET_ID).sheet1
+sheets_client = gspread.authorize(creds).open_by_key(SPREAD_SHEET_ID)
+
+feedback_sheet = sheets_client.get_worksheet(0)
+questions_sheet = sheets_client.get_worksheet(1)
